@@ -32,6 +32,18 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
+
 2️⃣ Navigate to the project folder
 cd currency-converter
 
