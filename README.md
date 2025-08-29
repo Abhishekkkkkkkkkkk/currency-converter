@@ -29,5 +29,4 @@ It allows users to convert currencies in real-time with a smooth and responsive 
 Follow these steps to set up the project locally:
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
