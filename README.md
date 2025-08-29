@@ -32,14 +32,11 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Abhishekkkkkkkkkkk/currency-converter.git
 
-### 2️⃣ Navigate to the project folder
-```bash
+2️⃣ Navigate to the project folder
 cd currency-converter
 
-### 3️⃣ Install dependencies
-```bash
+3️⃣ Install dependencies
 npm install
 
-### 4️⃣ Start the development server
-```bash
+4️⃣ Start the development server
 npm run dev
